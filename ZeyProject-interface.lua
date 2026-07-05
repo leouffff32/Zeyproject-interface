@@ -1,1 +1,1 @@
-Print Fuck me please @ZeyProject :) TRDC
+Print ("Fuck me please @ZeyProject :) TRDC")
